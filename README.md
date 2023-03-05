@@ -1,2 +1,2 @@
-# blockchain-messenger
-A simple messenger app based on Blockchain
+# blockchain-mini-projects
+Ethereum Blockchain Development using Solidity creating Smart Contracts.
