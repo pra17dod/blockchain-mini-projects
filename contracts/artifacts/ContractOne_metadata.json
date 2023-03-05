@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exampleContractCall.sol": "ContractOne"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exampleContractCall.sol": {
+			"keccak256": "0x65ca00310def2b16554ae1aca00bb2825ce394af4f313233a0518be382817627",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://debad411661457609d225b0eaaa60e76f3121f11c89693dc5b658a525e28f7ca",
+				"dweb:/ipfs/QmYwPYeYKMS2xqup1uAtL6SNfo9ftij7zgSkzZshBsxHoK"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"name": "NotAllowed",
+				"type": "error"
+			},
+			{
+				"inputs": [],
+				"name": "catchError",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exampleTryCatch.sol": "ExampleTryCatch"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exampleTryCatch.sol": {
+			"keccak256": "0x57e05912453c366f38c1e5f90a6c0bf2ba430fb1ca4a845a7701f51eb63bd227",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e40088816001a3685306c8cec955a4b45237155c56832ba7c033db67d7612b1c",
+				"dweb:/ipfs/QmcSQLMXo68V8wHxWFyfJQCYHT5dmdWubLEBw3nLiYcboe"
+			]
+		}
+	},
+	"version": 1
+}

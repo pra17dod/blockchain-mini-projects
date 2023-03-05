@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_myUint",
+						"type": "uint256"
+					}
+				],
+				"name": "setMyUInt",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exampleInt.sol": "ExampleUInt"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exampleInt.sol": {
+			"keccak256": "0x7984b0cad967c35f322490104d8e293968cb6f1d7d9db80ea1207c4dd0325d2e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://69f04a0669d6a0d1a30c4e74f2bd1bf61b6ca9cb31835976012c6eb85465f024",
+				"dweb:/ipfs/QmcFn2cZHR8tzRiyqWC8ydrnjKnUheWzbL6kMTFTwRJMCL"
+			]
+		}
+	},
+	"version": 1
+}

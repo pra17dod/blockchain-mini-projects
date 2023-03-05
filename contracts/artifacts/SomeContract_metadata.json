@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/walletSmartContract2.sol": "SomeContract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/walletSmartContract2.sol": {
+			"keccak256": "0x07f06a48209354d201b94c0231ee0174ca4ef66aef7d864e362c24cdc5b71915",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://49efadf486bbf215eaf53d6f86c1b2d24f63478632a046f603fbdbd41a65e5a1",
+				"dweb:/ipfs/QmezNgdSeLLcfyc98x42tSVsR2VziMyb4gronWaCyMa9nZ"
+			]
+		}
+	},
+	"version": 1
+}
